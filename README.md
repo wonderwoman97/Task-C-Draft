@@ -19,7 +19,6 @@ We are looking forward to work with you this upcoming Fall Semester.
 Please let me know if you have any questions. Thank you!
 
 Cordial regards,
-
 Ann Borbe
 CodePath.org, Program Coordinator
 
