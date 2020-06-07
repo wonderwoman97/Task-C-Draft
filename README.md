@@ -4,7 +4,6 @@
 
 Dear **Michael**,
 
-
 A wholehearted day to you! Thank you very much for reaching out.
 
 We are glad that you expressed your interest in volunteering and sharing your expertise as a Teaching Assistant in one of our classes. We believe the best education in the world should be freely accessible.
@@ -20,7 +19,6 @@ We are looking forward to work with you this upcoming Fall Semester.
 
 Please let me know if you have any questions. Thank you!
 
-
 Cordial regards,
 
 Ann Borbe
@@ -33,7 +31,6 @@ CodePath.org, Program Coordinator
 
 Hi **Lynn**,
 
-
 I hope you are doing well. Just gentle reminder regarding the group survey you are supposed to [fill out.][3]
 
 [3]: https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__i__HKdUQkVNSTM2MUVWQVYzWERYVTFUV05GWUFYQS4u
@@ -41,7 +38,6 @@ I hope you are doing well. Just gentle reminder regarding the group survey you a
 Kindly complete it as soon as you can, so we can match you to a group and won’t fall behind.
 
 Please let me know if you have any questions. Thank you!
-
 
 Cordial regards,
 
@@ -54,7 +50,6 @@ CodePath.org, Program Coordinator
 ### Template C
 
 Dear **Daniel**,
-
 
 **Congratulations!** You have been selected to participate in CodePath’s Cybersecurity Course at CUNY Baruch College.
 
@@ -81,7 +76,6 @@ You will be required to attend mandatory 2-hour class sessions twice a week and 
 
 Please let me know if you have any questions. Thank you!
 
-
 Cordial regards,
 
 Ann Borbe
@@ -94,7 +88,6 @@ CodePath.org, Program Coordinator
 
 Hi **Kevin**,
 
-
 I hope you are doing well. We highly appreciate your interest in our [Interview Prep course][7]. However, we noticed that you missed the deadline and admissions are now closed and the class is full. We run this course every summer and we encourage you to apply again in the next run.
 
 For tips and guidelines, you might find this [high-level software interview guide][8] helpful.
@@ -105,7 +98,6 @@ For tips and guidelines, you might find this [high-level software interview guid
 We are looking forward to your application next summer.
 
 Please let me know if you have any questions. Thank you!
-
 
 Cordial regards,
 
