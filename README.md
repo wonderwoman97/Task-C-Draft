@@ -16,10 +16,13 @@ To participate with a 12-week virtual course as a TA, please fill out the form [
 [2]: https://codepath.org/volunteer
 
 We are looking forward to work with you this upcoming Fall Semester.
+
 Please let me know if you have any questions. Thank you!
 
 Cordial regards,
+
 Ann Borbe
+
 CodePath.org, Program Coordinator
 
 ---
@@ -37,7 +40,9 @@ Kindly complete it as soon as you can, so we can match you to a group and won’
 Please let me know if you have any questions. Thank you!
 
 Cordial regards,
+
 Ann Borbe
+
 CodePath.org, Program Coordinator
 
 ---
@@ -72,7 +77,9 @@ You will be required to attend mandatory 2-hour class sessions twice a week and 
 Please let me know if you have any questions. Thank you!
 
 Cordial regards,
+
 Ann Borbe
+
 CodePath.org, Program Coordinator
 
 ---
@@ -93,5 +100,7 @@ We are looking forward to your application next summer.
 Please let me know if you have any questions. Thank you!
 
 Cordial regards,
+
 Ann Borbe
+
 CodePath.org, Program Coordinator
